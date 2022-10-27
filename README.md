@@ -1,3 +1,6 @@
-## DEPLOYED:
+## React Styled Components
 
-https://styled-clarusway.netlify.app/
+Here is my first project with styled components
+
+### you can Check the page here :
+https://hmzaygn.github.io/cw-page-styled-comp/
